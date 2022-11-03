@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# Software-Landing-Page-Template
-Software-Landing-Page-Template 
-=======
-# Web-API-using-.Net-Core
-Web API using .Net Core
->>>>>>> 5ffb676eb7631d9ddf0dc710cdbfe8b8eca205bc
+# Web-API-using-.Net-Core 
+Web API using .Net Core & asp.net core identity & JWT token & reposatary pattern & CRUD operations
